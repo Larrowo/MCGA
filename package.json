@@ -1,0 +1,24 @@
+{
+  "name": "mcga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Larrowo/MCGA---BackEnd.git"
+  },
+  "author": "Julián Astudillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Larrowo/MCGA---BackEnd/issues"
+  },
+  "homepage": "https://github.com/Larrowo/MCGA---BackEnd#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
